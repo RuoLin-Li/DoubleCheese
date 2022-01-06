@@ -1,3 +1,7 @@
+body{
+    background-image: url(../img/burger.svg);
+}
+
 .container{
     width: 261px;
     margin-left: 15px;
