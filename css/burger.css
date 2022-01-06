@@ -1,15 +1,31 @@
 body{
     background-image: url(../img/burger.svg);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
     width: 261px;
     margin-left: 15px;
-    border: 1px solid rgba(0, 0, 0, 0);
 }
 
-.list{
-    margin-top: 361px;
+.petname{
+    display: inline-block;
+    position: relative;
+    margin-top: 255px;
+    left: 109px;
+    width: 65px;
+    height: 50px;
+}
+
+h5{
+    position: absolute;
+    font-size: 13px;
+    margin-top: -6px;
+}
+
+.botton{
+    margin-top: 58px;
 }
 
 .btn{
@@ -21,11 +37,11 @@ body{
     text-align: center;
     padding: 10px;
     border-radius: 100px;
-    margin-top: 30px;
+    margin-top: 33px;
 }
 
 .btn.change{
-    margin-top: 252px;
+    margin-top: 101px;
 }
 
 .backgroungback {
