@@ -14,7 +14,7 @@ body {
     margin-left: 16px;
 }
 
-.finish{
+.finish {
     margin-top: -47px;
     margin-left: 315px;
 }
@@ -43,12 +43,14 @@ body {
     margin-top: -73px;
     margin-left: 255px;
 }
+
 /* 大便那頁的水 */
 .water2 {
     width: 105px;
     margin-top: -73px;
     margin-left: 255px;
 }
+
 .dog {
     margin-top: 65px;
     margin-left: 144px;
@@ -155,13 +157,13 @@ h1 {
     text-align: center;
     padding: 9px 100px;
     border-radius: 100px;
-    margin-top: 86px;
+    margin-top: 173px;
     margin-left: 17px;
     font-size: 18px;
     font-weight: bold;
 }
 
-/* 充滿好奇+(缺加號) */
+/* 充滿好奇+ */
 .button2-1 {
     background-color: #FFCD6E;
     border: none;
@@ -169,13 +171,13 @@ h1 {
     text-align: center;
     padding: 9px 120px;
     border-radius: 100px;
-    margin-top: 211px;
+    margin-top: 197px;
     margin-left: 32px;
     font-size: 18px;
     font-weight: bold;
 }
 
-/* 充滿好奇+(缺減號) */
+/* 充滿好奇- */
 .button2-2 {
     background-color: #FEA735;
     border: none;
@@ -183,7 +185,7 @@ h1 {
     text-align: center;
     padding: 9px 120px;
     border-radius: 100px;
-    margin-top: 93px;
+    margin-top: 78px;
     margin-left: 32px;
     font-size: 18px;
     font-weight: bold;
@@ -594,13 +596,13 @@ h1 {
     margin-left: 206px;
 }
 
-.backhome{
+.backhome {
     margin-top: 685px;
     margin-left: 159px;
 }
 
 /* feed、drink頁面 */
-.backhome1{
+.backhome1 {
     margin-top: -31px;
     margin-left: 159px;
 }
