@@ -1,13 +1,44 @@
 /* chooseanimal2 */
-.text, .text1,
-.text6, .text6-1, 
-.text6-3 ,.text6-4,
-.select6, .select6-2:focus{
-    outline: 0;;
+.text,
+.text1,
+.text6,
+.text6-1,
+.text6-3,
+.text6-4,
+.select6,
+.select6-2:focus {
+    outline: 0;
+    ;
 }
 
 /* information1 */
-.text5-1, .text5-2, 
-.text5-3, .text5-4:focus{
+.text5-1,
+.text5-2,
+.text5-3,
+.text5-4:focus {
     outline: 0;
+}
+
+.text6 {
+    margin-top: 177px;
+    margin-left: 115px;
+}
+
+.select6 {
+    margin-top: 21px;
+    margin-left: 100px;
+}
+
+.select6-2 {
+    margin-left: 95px;
+    margin-top: 19px;
+}
+
+.text6-4 {
+    margin-left: 180px;
+}
+
+.button1-2 {
+    margin-top: 119px;
+    margin-left: 17px;
 }
