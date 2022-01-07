@@ -26,6 +26,7 @@ body {
     left: 20px;
 }
 
+/* 只有在poop頁面出現 */
 .tissue {
     display: inline-block;
     position: absolute;
@@ -53,3 +54,12 @@ body {
 .btn{
     padding: 5px;
 }
+
+/* wash頁面的蓮蓬頭 */
+.shower{
+    display: flex;
+    position: relative;
+    top: 116px;
+    left: 111px;
+}
+
