@@ -14,6 +14,11 @@ body {
     margin-left: 16px;
 }
 
+.finish{
+    margin-top: -47px;
+    margin-left: 315px;
+}
+
 .food {
     width: 105px;
     margin-top: 600px;
