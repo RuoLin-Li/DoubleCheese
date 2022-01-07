@@ -23,7 +23,8 @@ body {
     display: inline-block;
     position: absolute;
     width: 105px;
-    left: 20px;
+    left: 30px;
+    top: 33px;
 }
 
 /* 只有在poop頁面出現 */
@@ -54,12 +55,6 @@ body {
 .btn{
     padding: 5px;
 }
-
-/* chooseanimal */
-
-
-
-
 
 /* wash頁面的蓮蓬頭 */
 .shower{
