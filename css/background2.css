@@ -66,23 +66,26 @@ body {
 .eatup{
     display: flex;
     position: absolute;
-    top: -62px;
-    left:114px;
+    top: 635px;
+    left: 405px;
 }
 
 .food2{
     display: flex;
     position: absolute;
     width: 105px;
-    top: -100px;
-    left: 104px;
+    top: 597px;
+    left: 395px;
+    z-index: 1;
+    animation-name: foodeatup;
+    animation-duration: 8s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
 }
-
-.box2-2{
-    animation-name:eatup;
-    animation: 5s ease-in alternate;
+@keyframes foodeatup{
+    0%   {opacity: 1;}
+  100%{opacity: 0;}
 }
-/* /未完成 */
 
 /* wash頁面的蓮蓬頭 */
 .shower{
