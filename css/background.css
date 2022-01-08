@@ -65,7 +65,7 @@ h1 {
     margin-left: 144px;
 }
 
-.bird{
+.bird {
     margin-top: px;
 }
 
@@ -377,11 +377,6 @@ h1 {
     margin-left: 311px;
 }
 
-.icon2 {
-    margin-top: -29px;
-    margin-left: 311px;
-}
-
 /* chooseanimal2 的 綠框*/
 .text6 {
     background-color: #D7FAD6;
@@ -521,7 +516,7 @@ h1 {
     font-weight: bold;
 }
 
-/* information2 的充滿好奇-#FEA735 */
+/* information2 的活力充沛-#FEA735 */
 .button3-2 {
     background-color: #FEA735;
     border: none;
@@ -529,7 +524,7 @@ h1 {
     text-align: center;
     padding: 9px 120px;
     border-radius: 100px;
-    margin-top:  17px;
+    margin-top: 17px;
     margin-left: 32px;
     font-size: 18px;
     font-weight: bold;
@@ -540,6 +535,12 @@ h1 {
     width: 18px;
     margin-top: -33px;
     margin-left: 312px;
+}
+
+.icon2 {
+    width: 18px;
+    margin-top: -29px;
+    margin-left: 311px;
 }
 
 /* information2 的 -  */
@@ -610,7 +611,8 @@ h1 {
     margin-top: -31px;
     margin-left: 159px;
 }
-.state{
+
+.state {
     display: flex;
     position: absolute;
     justify-content: center;
