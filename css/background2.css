@@ -86,6 +86,7 @@ body {
     0%   {opacity: 1;}
   100%{opacity: 0;}
 }
+/* feed頁面 結束 */
 
 /* wash頁面的蓮蓬頭 */
 .shower{
@@ -105,7 +106,6 @@ body {
     animation-iteration-count:infinite;
     animation-direction:alternate;
 }
-
 @keyframes wash2{
     from{
         top: 123px;
@@ -117,7 +117,7 @@ body {
 
     }
 }
-
+/* wash頁面 結束 */
 
 /* poop頁面 */
 .tissue {
@@ -148,3 +148,4 @@ body {
         left: 263px;
     }
 }
+/* cleanpoop頁面 結束*/
