@@ -14,8 +14,17 @@ body {
     margin-left: 16px;
 }
 
+h1 {
+    width: 375px;
+    margin-top: -44px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    text-align: center;
+}
+
 .finish {
-    margin-top: -47px;
+    margin-top: -50px;
     margin-left: 315px;
 }
 
@@ -60,14 +69,6 @@ body {
     margin-top: px;
 }
 
-h1 {
-    width: 375px;
-    margin-top: -44px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 24px;
-    text-align: center;
-}
 
 /* chooseanimal1 的 完成按鈕 */
 .button {
