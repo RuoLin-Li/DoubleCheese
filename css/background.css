@@ -180,7 +180,18 @@ h1 {
     font-size: 18px;
     font-weight: bold;
 }
-
+.button2-11 {
+    background-color: #FFCD6E;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 138px;
+    border-radius: 100px;
+    margin-top: 138px;
+    margin-left: 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
 /* 充滿好奇- */
 .button2-2 {
     background-color: #FEA735;
@@ -190,6 +201,18 @@ h1 {
     padding: 9px 120px;
     border-radius: 100px;
     margin-top: 78px;
+    margin-left: 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.button2-3 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 138px;
+    border-radius: 100px;
+    margin-top: 80px;
     margin-left: 32px;
     font-size: 18px;
     font-weight: bold;
