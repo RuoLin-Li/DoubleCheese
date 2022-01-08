@@ -26,13 +26,14 @@ body {
     left: 20px;
 }
 
-/* .food1{
+/* wash頁面的 */
+.food1{
     display: inline-block;
     position: absolute;
     width: 105px;
     top: -200px;
     left: 20px;
-} */
+}
 
 .water {
     display: inline-block;
@@ -42,13 +43,14 @@ body {
     left: 255px;
 }
 
-/* .water1 {
+/* wash頁面的 */
+.water1 {
     display: inline-block;
     position: absolute;
     width: 105px;
     top: -190px;
     left: 255px;
-} */
+}
 
 .state{
     display: flex;
@@ -78,7 +80,7 @@ body {
     left: 395px;
     z-index: 1;
     animation-name: foodeatup;
-    animation-duration: 8s;
+    animation-duration: 6s;
     animation-iteration-count:infinite;
     animation-direction:alternate;
 }
@@ -87,6 +89,15 @@ body {
   100%{opacity: 0;}
 }
 /* feed頁面 結束 */
+
+/* drink頁面 開始 */
+.drinkup{
+    display: flex;
+    position: absolute;
+    top: 626px;
+    left: 399px;
+}
+
 
 /* wash頁面的蓮蓬頭 */
 .shower{
