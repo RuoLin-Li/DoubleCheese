@@ -65,6 +65,13 @@ body {
 }
 
 /* feed頁面 */
+.box2-2{
+    border: 1px solid black;
+    height: 105px;
+    top: -90px;
+    display: flex;
+    position: relative;
+}
 .eatup{
     display: flex;
     position: absolute;
@@ -91,12 +98,20 @@ body {
 /* feed頁面 結束 */
 
 /* drink頁面 開始 */
+.water2{
+    display: inline-block;
+    position: absolute;
+    width: 105px;
+    top: 10px;
+    left: 100px;
+}
 .drinkup{
     display: flex;
     position: absolute;
-    top: 626px;
-    left: 399px;
+    top: 10px;
+    left: 10px;
 }
+/* drink頁面 結束 */
 
 
 /* wash頁面的蓮蓬頭 */
