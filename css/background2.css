@@ -69,6 +69,30 @@ body {
     top: 116px;
     left: 111px;
 }
+.shower2{
+    display: flex;
+    position: relative;
+    width: 105px;
+    top: 118px;
+    left: 185px;
+    animation-name:wash2;
+    animation-duration:2s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+}
+
+@keyframes wash2{
+    from{
+        top: 123px;
+        left: 185px;
+    }
+    to{
+        top: 118px;
+        left: 123px;
+
+    }
+}
+
 
 /* poop頁面 */
 .tissue {
@@ -78,7 +102,6 @@ body {
     margin-top: 16px;
     margin-left: 155px;
 }
-
 /* cleanpoop頁面 */
 .tissue2{
     display: inline-block;
@@ -90,7 +113,6 @@ body {
     animation-duration:2s;
     animation-fill-mode:forwards;
 }
-
 @keyframes cleanpoop{
     from{
         top: 16px;
