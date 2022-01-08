@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/background.css">
-    <link rel="stylesheet" href="./css/burger.css">
-    <title>漢堡</title>
+    <link rel="stylesheet" href="./css/birdburger.css">
+    <title>鳥漢堡</title>
 </head>
 <body>
     <div class="container">
         <div class="petname">
-            <h2>咖啡</h2>
-            <h5>1歲3個月</h5>
+            <h2>鳥鳥</h2>
+            <h5>2天</h5>
         </div>
         <div class="botton">
             <div class="list">
