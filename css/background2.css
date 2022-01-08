@@ -26,12 +26,20 @@ body {
     left: 20px;
 }
 
+.food1{
+    display: inline-block;
+    position: absolute;
+    width: 105px;
+    top: -200px;
+    left: 20px;
+}
+
 /* 只有在poop頁面出現 */
 .tissue {
     display: inline-block;
     position: absolute;
     width: 105px;
-    margin-top: 17px;
+    margin-top: 16px;
     margin-left: 155px;
 }
 
@@ -40,6 +48,14 @@ body {
     position: absolute;
     width: 105px;
     top: 8px;
+    left: 255px;
+}
+
+.water1 {
+    display: inline-block;
+    position: absolute;
+    width: 105px;
+    top: -190px;
     left: 255px;
 }
 
