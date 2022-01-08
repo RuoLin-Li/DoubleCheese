@@ -79,24 +79,3 @@ body {
     left: 111px;
 }
 
-.tissue:checked { 
-    position: absolute; 
-    top: 0px; 
-    left: 0px; 
-    animation: move 3s;
-    animation-fill-mode: forwards; 
-    -webkit-animation-fill-mode: forwards;  
-} 
-
-@keyframes move { 
-    from { transform: translateX(0px); } 
-    to { transform: translateX(120px) translateY(-125px); } 
-} 
-
-#stop:checked ~ .animation{
-    animation-play-state: paused;
-}
-
-#play:checked ~ .animation{
-    animation-play-state: running;
-}
