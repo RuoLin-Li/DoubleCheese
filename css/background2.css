@@ -34,15 +34,6 @@ body {
     left: 20px;
 }
 
-/* 只有在poop頁面出現 */
-.tissue {
-    display: inline-block;
-    position: absolute;
-    width: 105px;
-    margin-top: 16px;
-    margin-left: 155px;
-}
-
 .water {
     display: inline-block;
     position: absolute;
@@ -77,4 +68,36 @@ body {
     position: relative;
     top: 116px;
     left: 111px;
+}
+
+/* poop頁面 */
+.tissue {
+    display: inline-block;
+    position: absolute;
+    width: 105px;
+    margin-top: 16px;
+    margin-left: 155px;
+}
+
+/* cleanpoop頁面 */
+.tissue2{
+    display: inline-block;
+    position: absolute;
+    width: 105px;
+    top: 16px;
+    left: 155px;
+    animation-name:cleanpoop;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+}
+
+@keyframes cleanpoop{
+    from{
+        top: 16px;
+        left: 155px;
+    }
+    to{
+        top: -117px;
+        left: 263px;
+    }
 }
