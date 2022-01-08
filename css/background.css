@@ -612,10 +612,10 @@ h1 {
     margin-left: 159px;
 }
 
-.state {
+.state{
     display: flex;
     position: absolute;
     justify-content: center;
     width: 373px;
-    bottom: 120px;
+    bottom: -90px;
 }
