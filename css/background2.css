@@ -66,7 +66,6 @@ body {
 
 /* feed頁面 */
 .box2-2{
-    border: 1px solid black;
     height: 105px;
     top: -90px;
     display: flex;
@@ -75,16 +74,16 @@ body {
 .eatup{
     display: flex;
     position: absolute;
-    top: 635px;
-    left: 405px;
+    top: 48px;
+    left: 110px;
 }
 
 .food2{
     display: flex;
     position: absolute;
     width: 105px;
-    top: 597px;
-    left: 395px;
+    top: 10px;
+    left: 100px;
     z-index: 1;
     animation-name: foodeatup;
     animation-duration: 6s;
@@ -98,18 +97,27 @@ body {
 /* feed頁面 結束 */
 
 /* drink頁面 開始 */
+.drinkup{
+    display: flex;
+    position: absolute;
+    top: 40px;
+    left: 105px;
+}
 .water2{
     display: inline-block;
     position: absolute;
     width: 105px;
     top: 10px;
     left: 100px;
+    z-index: 1;
+    animation-name: foodeatup;
+    animation-duration: 6s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
 }
-.drinkup{
-    display: flex;
-    position: absolute;
-    top: 10px;
-    left: 10px;
+@keyframes foodeatup{
+    0%   {opacity: 1;}
+  100%   {opacity: 0;}
 }
 /* drink頁面 結束 */
 
