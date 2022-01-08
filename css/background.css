@@ -69,7 +69,6 @@ h1 {
     margin-top: px;
 }
 
-
 /* chooseanimal1 的 完成按鈕 */
 .button {
     background-color: #FEA735;
@@ -216,7 +215,7 @@ h1 {
     border: solid #FEA735;
     text-decoration: none;
     text-align: left;
-    padding-top: 10px;
+    padding-top: 12px;
     padding-bottom: 9px;
     padding-left: 20px;
     padding-right: 122.4px;
